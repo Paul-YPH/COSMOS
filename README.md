@@ -13,7 +13,8 @@ superior performance of COSMOS underscores its value as an essential resource in
 the realm of spatial omics.
 
 Paper: Cooperative Integration of Spatially Resolved Multi-Omics Data with 
-COSMOS
+COSMOS, Yuansheng Zhou, Xue Xiao, Lei Dong, Chen Tang, Guanghua Xiao*, Lin Xu*, 
+2024.  
 
 # 2. Result
 
