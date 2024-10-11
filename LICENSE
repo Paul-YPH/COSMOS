@@ -53,7 +53,7 @@ SOFTWARE.
 --------------------------------------------------------------------------------------------------------
 NOTICE: This COSMOS software includes functionality from pyWNN 
 (Weighted Nearest Neighbors Analysis implemented in Python), which is based on code 
-from pyWNN (https://github.com/dylkot/pyWNN), licensed under the MIT License as shown below. 
+from the https://github.com/dylkot/pyWNN, licensed under the MIT License as shown below. 
 The pyWNN library is a Python port of the Weighted Nearest Neighbors (WNN) analysis 
 originally implemented in Seurat. The WNN method is described in the publication 
 "Integrated multimodal single-cell analysis of transcriptional and epigenetic states in the human brain"
