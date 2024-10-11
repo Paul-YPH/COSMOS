@@ -32,7 +32,7 @@ import torch.nn as nn
 import matplotlib.pyplot as plt
 import pandas as pd
 from scipy.spatial import distance_matrix
-from torch_geometric.nn import GCNConv, DeepGraphInfomax
+from torch_geometric.nn import GCNConv
 from sklearn.neighbors import kneighbors_graph
 from .modulesWNN import DeepGraphInfomaxWNN
 from .pyWNN import pyWNN
