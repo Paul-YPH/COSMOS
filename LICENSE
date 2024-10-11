@@ -56,7 +56,8 @@ NOTICE: This COSMOS software includes functionality from pyWNN
 from pyWNN (https://github.com/dylkot/pyWNN) and is licensed under the MIT License. 
 The pyWNN library is a Python port of the Weighted Nearest Neighbors (WNN) analysis 
 originally implemented in Seurat. The WNN method is described in the publication 
-"Integrated multimodal single-cell analysis of transcriptional and epigenetic states in the human brain" (https://www.sciencedirect.com/science/article/pii/S0092867421005833?via%3Dihub).
+"Integrated multimodal single-cell analysis of transcriptional and epigenetic states in the human brain"
+(https://www.sciencedirect.com/science/article/pii/S0092867421005833?via%3Dihub).
 --------------------------------------------------------------------------------
 MIT License
 
