@@ -21,13 +21,13 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 
---------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------
 NOTICE: This COSMOS software is adapted from the spaceflow code 
 (https://github.com/hongleir/SpaceFlow). Please see BELOW for the copyright information of 
 the spaceflow software. The implementation of the spaceflow software is described in 
 the publication "Identifying multicellular spatiotemporal organization of cells with SpaceFlow." 
 (https://www.nature.com/articles/s41467-022-31739-w).
---------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------
 MIT License
 
 Copyright (c) 2022 Honglei
@@ -50,15 +50,15 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
---------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------
 NOTICE: This COSMOS software includes functionality from pyWNN 
 (Weighted Nearest Neighbors Analysis implemented in Python), which is based on code 
-from pyWNN (https://github.com/dylkot/pyWNN) and is licensed under the MIT License as shown below. 
+from pyWNN (https://github.com/dylkot/pyWNN), licensed under the MIT License as shown below. 
 The pyWNN library is a Python port of the Weighted Nearest Neighbors (WNN) analysis 
 originally implemented in Seurat. The WNN method is described in the publication 
 "Integrated multimodal single-cell analysis of transcriptional and epigenetic states in the human brain"
 (https://www.sciencedirect.com/science/article/pii/S0092867421005833?via%3Dihub).
---------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------
 MIT License
 
 Copyright (c) 2021 Dylan Kotliar
