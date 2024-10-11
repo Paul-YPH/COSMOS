@@ -51,11 +51,12 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 --------------------------------------------------------------------------------
-NOTICE: This COSMOS software includes pyWNN(Weighted Nearest Neighbors Analysis i
-mplemented in Python) functionality implemented using code from 
-https://github.com/dylkot/pyWNN, licensed under the MIT License. The pyWNN is 
-a port of SEURAT's weighted nearest neighbors(WNN) analysis. The WNN method is 
-described in https://www.sciencedirect.com/science/article/pii/S0092867421005833?via%3Dihub.
+NOTICE: This COSMOS software includes functionality from pyWNN 
+(Weighted Nearest Neighbors Analysis implemented in Python), which is based on code 
+from pyWNN (https://github.com/dylkot/pyWNN) and is licensed under the MIT License. 
+The pyWNN library is a Python port of the Weighted Nearest Neighbors (WNN) analysis 
+originally implemented in Seurat. The WNN method is described in the publication 
+"Integrated multimodal single-cell analysis of transcriptional and epigenetic states in the human brain" (https://www.sciencedirect.com/science/article/pii/S0092867421005833?via%3Dihub).
 --------------------------------------------------------------------------------
 MIT License
 
