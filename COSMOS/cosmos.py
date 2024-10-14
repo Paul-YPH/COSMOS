@@ -63,9 +63,9 @@ def corruptionWNNit(x1, x2, edge_index,adata,w,w1,w2):
 
 class Cosmos(object):
     """An object for analysis of spatial transcriptomics data.
-    :param adata: the `anndata.AnnData` object as input, see `https://anndata.readthedocs.io/en/latest/` for more info about`anndata`.
+    :param adata1 / adata2: `anndata.AnnData` object as input, see `https://anndata.readthedocs.io/en/latest/` for more info about`anndata`.
     :type adata: class:`anndata.AnnData`
-    :param count_matrix: count matrix of gene expression, 2D numpy array of size (n_cells, n_genes)
+    :param count_matrix1 / count_matrix2: count matrix of gene expression, 2D numpy array of size (n_cells, n_genes)
     :type count_matrix: class:`numpy.ndarray`
     :param spatial_locs: spatial locations of cells (or spots) match to rows of the count matrix, 1D numpy array of size (n_cells,)
     :type spatial_locs: class:`numpy.ndarray`
@@ -79,8 +79,8 @@ class Cosmos(object):
         """
         Inputs
         ------
-        adata: an anndata.AnnData type object, optional (either input `adata` or both `count_matrix` and `spatial_locs`)
-        count_matrix : count matrix of gene expression, 2D numpy array of size (n_cells, n_genes)
+        adata1 / adata2: the anndata.AnnData type object, optional (either input `adata` or both `count_matrix` and `spatial_locs`)
+        count_matrix1 / count_matrix2 : count matrix of gene expression, 2D numpy array of size (n_cells, n_genes)
         spatial_locs : spatial locations of cells (or spots) match to rows of the count matrix, 1D numpy array of size (n_cells,)
         sample_names : list of sample names in 1D numpy str array of size (n_cells,), optional
         gene_names : list of gene names in 1D numpy str array of size (n_genes,), optional
@@ -130,7 +130,7 @@ class Cosmos(object):
         adata1 = self.adata1
         adata2 = self.adata2
         if not adata1 or not adata2:
-            print("No annData object found, please run cosmos.Cosmos(expr_data, spatial_locs) first!")
+            print("Not enough annData objects")
             return
         if do_norm:
             sc.pp.normalize_total(adata1, target_sum=1e4)
