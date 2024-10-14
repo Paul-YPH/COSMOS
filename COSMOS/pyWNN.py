@@ -1,3 +1,18 @@
+'''
+Paper: Cooperative Integration of Spatially Resolved Multi-Omics Data with COSMOS.
+
+Please contact our team if you have any questions:
+Yuansheng Zhou (Yuansheng.Zhou@UTSouthwestern.edu)
+Xue Xiao (Xiao.Xue@UTSouthwestern.edu)
+Chen Tang (Chen.Tang@UTSouthwestern.edu)
+Lin Xu (Lin.Xu@UTSouthwestern.edu)
+
+Notice: This COSMOS software includes functionality from pyWNN 
+        (Weighted Nearest Neighbors Analysis implemented in Python), 
+        which is based on code from the https://github.com/dylkot/pyWNN. 
+        Please see the "LICENSE" file for copyright details of the PyG software.
+'''
+
 import scanpy as sc
 import numpy as np
 from sklearn import preprocessing
