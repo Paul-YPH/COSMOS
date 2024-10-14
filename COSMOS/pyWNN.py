@@ -1,11 +1,18 @@
 '''
-Paper: Cooperative Integration of Spatially Resolved Multi-Omics Data with COSMOS.
+This open-source software is for implementing the COSMOS algorithm. 
+Paper: Cooperative Integration of Spatially Resolved Multi-Omics Data with COSMOS
 
 Please contact our team if you have any questions:
 Yuansheng Zhou (Yuansheng.Zhou@UTSouthwestern.edu)
 Xue Xiao (Xiao.Xue@UTSouthwestern.edu)
 Chen Tang (Chen.Tang@UTSouthwestern.edu)
 Lin Xu (Lin.Xu@UTSouthwestern.edu)
+
+Please contact Xue Xiao for programming questions about the *.py files.
+
+Version: 10/10/2024
+
+Please see the "LICENSE" file for the copyright information. 
 
 Notice: This COSMOS software includes functionality from pyWNN 
         (Weighted Nearest Neighbors Analysis implemented in Python), 
