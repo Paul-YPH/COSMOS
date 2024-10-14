@@ -1,5 +1,12 @@
 '''
-Please see the "LICENSE" file for the copyright information. 
+Paper: Cooperative Integration of Spatially Resolved Multi-Omics Data with COSMOS.
+
+Please contact our team if you have any questions:
+Yuansheng Zhou (Yuansheng.Zhou@UTSouthwestern.edu)
+Xue Xiao (Xiao.Xue@UTSouthwestern.edu)
+Chen Tang (Chen.Tang@UTSouthwestern.edu)
+Lin Xu (Lin.Xu@UTSouthwestern.edu)
+
 
 Notice: The DeepGraphInfomaxWNN function in the COSMOS software is adapted from the 
         torch_geometric.nn.models.deep_graph_infomax function in PyTorch Geometric (PyG),
