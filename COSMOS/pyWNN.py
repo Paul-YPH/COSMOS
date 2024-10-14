@@ -10,7 +10,7 @@ Lin Xu (Lin.Xu@UTSouthwestern.edu)
 Notice: This COSMOS software includes functionality from pyWNN 
         (Weighted Nearest Neighbors Analysis implemented in Python), 
         which is based on code from the https://github.com/dylkot/pyWNN. 
-        Please see the "LICENSE" file for copyright details of the PyG software.
+        Please see the "LICENSE" file for copyright details of the pyWNN software.
 '''
 
 import scanpy as sc
