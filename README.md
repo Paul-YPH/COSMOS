@@ -92,6 +92,13 @@ when you are using Python or Jupyter Notebook in other folders:
 import COSMOS
 ```
 
+__3.4. using "pip install" to install the COSMOS package__
+
+Please run
+```
+pip install COSMOS-LinXuLab
+```
+
 # 4. Example
 
 Below is the notebook script for the Mouse Visual Cortex example. First, please 
@@ -373,7 +380,11 @@ plt.tight_layout()
 ```
 ![Fig](/images/pseudo_spatiotemporal_map_from_COSMOS_integration.png)
 
-# 5. Contact information
+# 5. Datasets for COSMOS on Zenodo
+
+10.5281/zenodo.13932144
+
+# 6. Contact information
 
 Please contact our team if you have any questions:
 
@@ -389,6 +400,6 @@ Lin Xu (Lin.Xu@UTSouthwestern.edu)
 
 Please contact Xue Xiao for programming questions about the *.py
 
-# 6. Copyright information 
+# 7. Copyright information 
 
 Please see the "LICENSE" file for the copyright information.
