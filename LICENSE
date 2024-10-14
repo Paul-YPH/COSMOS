@@ -81,7 +81,7 @@ SOFTWARE.
 NOTICE: The DeepGraphInfomaxWNN function in the COSMOS software is adapted from the 
 torch_geometric.nn.models.deep_graph_infomax function in PyTorch Geometric (PyG),
 available at https://github.com/pyg-team/pytorch_geometric/tree/master. 
-PyG is licensed under the MIT License, as shown below.
+PyG is licensed under the MIT License, as shown below. 
 --------------------------------------------------------------------------------------------------------
 Copyright (c) 2023 PyG Team <team@pyg.org>
 
