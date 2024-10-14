@@ -387,6 +387,8 @@ Chen Tang (Chen.Tang@UTSouthwestern.edu)
 
 Lin Xu (Lin.Xu@UTSouthwestern.edu)
 
+Please contact Xue Xiao for programming questions about the *.py
+
 # 6. Copyright information 
 
 Please see the "LICENSE" file for the copyright information.
