@@ -16,7 +16,20 @@ Version: 10/10/2024
 
 Please see the "LICENSE" file for the copyright information. 
 
-Notice: 
+NOTICE: This COSMOS software is adapted from the spaceflow code 
+        (https://github.com/hongleir/SpaceFlow). Please see BELOW for the copyright information of 
+        the spaceflow software. The implementation of the spaceflow software is described in 
+        the publication "Identifying multicellular spatiotemporal organization of cells with SpaceFlow." 
+        (https://www.nature.com/articles/s41467-022-31739-w).
+
+        This COSMOS software includes functionality from pyWNN 
+        (Weighted Nearest Neighbors Analysis implemented in Python), which is based on code 
+        from the https://github.com/dylkot/pyWNN, licensed under the MIT License as shown below. 
+
+         The DeepGraphInfomaxWNN function in the COSMOS software is adapted from the 
+        torch_geometric.nn.models.deep_graph_infomax function in PyTorch Geometric (PyG),
+        available at https://github.com/pyg-team/pytorch_geometric/tree/master. 
+        PyG is licensed under the MIT License, as shown below.
 '''
 import math
 import os
