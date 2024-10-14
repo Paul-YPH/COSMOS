@@ -82,7 +82,8 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 --------------------------------------------------------------------------------------------------------
-NOTICE: This DeepGraphInfomaxWNN function in software is adapted from DeepGraphInfomaxWWN
+NOTICE: This DeepGraphInfomaxWNN function in software is adapted from torch_geometric.nn.models.deep_graph_infomax
+function in PyG.
 --------------------------------------------------------------------------------------------------------
 Copyright (c) 2023 PyG Team <team@pyg.org>
 
