@@ -1,3 +1,11 @@
+'''
+Please see the "LICENSE" file for the copyright information. 
+
+Notice: The DeepGraphInfomaxWNN function in the COSMOS software is adapted from the 
+        torch_geometric.nn.models.deep_graph_infomax function in PyTorch Geometric (PyG),
+        https://github.com/pyg-team/pytorch_geometric/tree/master.
+        Please see the "LICENSE" file for copyright details of the PyG software.
+'''
 import copy
 from typing import Callable, Tuple
 
