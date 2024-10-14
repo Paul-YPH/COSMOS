@@ -54,10 +54,6 @@ SOFTWARE.
 NOTICE: This COSMOS software includes functionality from pyWNN 
 (Weighted Nearest Neighbors Analysis implemented in Python), which is based on code 
 from the https://github.com/dylkot/pyWNN, licensed under the MIT License as shown below. 
-The pyWNN library is a Python port of the Weighted Nearest Neighbors (WNN) analysis 
-originally implemented in Seurat. The WNN method is described in the publication 
-"Integrated multimodal single-cell analysis of transcriptional and epigenetic states in the human brain"
-(https://www.sciencedirect.com/science/article/pii/S0092867421005833?via%3Dihub).
 --------------------------------------------------------------------------------------------------------
 MIT License
 
@@ -83,8 +79,9 @@ SOFTWARE.
 
 --------------------------------------------------------------------------------------------------------
 NOTICE: The DeepGraphInfomaxWNN function in the COSMOS software is adapted from the 
-torch_geometric.nn.models.deep_graph_infomax function in PyTorch Geometric (PyG).
-(https://github.com/pyg-team/pytorch_geometric/tree/master).
+torch_geometric.nn.models.deep_graph_infomax function in PyTorch Geometric (PyG),
+available at https://github.com/pyg-team/pytorch_geometric/tree/master. 
+PyG is licensed under the MIT License, as shown below.
 --------------------------------------------------------------------------------------------------------
 Copyright (c) 2023 PyG Team <team@pyg.org>
 
