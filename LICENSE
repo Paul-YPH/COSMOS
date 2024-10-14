@@ -82,7 +82,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 --------------------------------------------------------------------------------------------------------
-NOTICE: This DeepGraphInfomaxWNN function in software is adapted from 
+NOTICE: The DeepGraphInfomaxWNN function in COSMOS software is adapted from the
 torch_geometric.nn.models.deep_graph_infomax function in 
 PyG (https://github.com/pyg-team/pytorch_geometric/tree/master).
 --------------------------------------------------------------------------------------------------------
