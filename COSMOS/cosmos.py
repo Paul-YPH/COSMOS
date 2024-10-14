@@ -1,5 +1,3 @@
-#!/usr/bin/env python
-
 '''
 This open-source software is for implementing the COSMOS algorithm. 
 Paper: Cooperative Integration of Spatially Resolved Multi-Omics Data with COSMOS
