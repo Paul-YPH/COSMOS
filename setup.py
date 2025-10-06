@@ -7,6 +7,7 @@ setup(
     version='1.0',
     description='The software is to implement the COSMOS. Please see the website for details.',
     url='https://github.com/Lin-Xu-lab/COSMOS.git',
-    packages=find_packages(where='COSMOS'), 
-    package_dir={'': 'COSMOS'} 
+    packages=find_packages(),       
+    package_dir={'COSMOS': 'COSMOS'}, 
+    include_package_data=True,
 )
